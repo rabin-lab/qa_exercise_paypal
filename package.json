@@ -1,0 +1,10 @@
+{
+  "name": "mocha-js-example",
+  "version": "1.0.0",
+  "dependencies": {
+    "selenium-webdriver": "^3.6.0",
+    "mocha": "^6.2.2",
+    "chai": "^4.2.0",
+    "geckodriver": "^1.19.1"
+  }
+}
